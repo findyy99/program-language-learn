@@ -3,7 +3,7 @@
 this is a rep about my c  learning
 c语言
 ======
-地址：https://github.com/jianzhao0806/program-language-learn/tree/master/c
+地址：https://github.com/jianzhao0806/program-language-learn/tree/master/c<br>
 python
 ======
-地址：
+地址：https://github.com/jianzhao0806/program-language-learn/tree/master/python
